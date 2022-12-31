@@ -39,7 +39,7 @@ const Footer = () => {
       </div>
 
       <div className='gpt3-footer-copyright'>
-        <p>&copy; تمامی حقوق محفوط است. پاییز  ۱۴۰۱</p>
+        <p>&copy; تمامی حقوق محفوظ است. پاییز  ۱۴۰۱</p>
       </div>
     </div>
   )

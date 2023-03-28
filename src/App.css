@@ -14,6 +14,17 @@ a {
   color: unset;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0e3061;
+  border-radius: 10px;
+}
+
 .gradient-bg {
 
   /* ff 3.6+ */

@@ -27,7 +27,7 @@ const Footer = () => {
         <div className='gpt3-footer-links-item'>
           <h4>شرکت</h4>
           <p>قوانین و ضوابط</p>
-          <p>حریح خصوصی</p>
+          <p>حریم خصوصی</p>
           <p>ارتباط</p>
         </div>
         <div className='gpt3-footer-links-item'>
